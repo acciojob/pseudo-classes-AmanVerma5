@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-*{
-	background-color:lightblue;
+.root{
+	background-color:rgb(135, 206, 235);
 }
 .first-para{
 	background-color:black;
@@ -16,7 +16,7 @@ li{
 	background-color:white;
 }
 .second,.fourth{
-	background-color:grey;
+	background-color:stalegray;
 }
 .third{
 	background-color:pink;
