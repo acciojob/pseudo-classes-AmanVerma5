@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	background-color:lightblue;
+}
+.first-para{
+	background-color:black;
+	color:white;
+}
+li{
+	width:50%;
+}
+.para{
+	color:red;
+}
+.first,.fifth{
+	background-color:white;
+}
+.second,.fourth{
+	background-color:grey;
+}
+.third{
+	background-color:pink;
+}
